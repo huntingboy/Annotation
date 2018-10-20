@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Annotations</string>
+    <integer name="one">1</integer>
+    <integer name="two">2</integer>
+    <string name="hello">hello</string>
+    <string name="world">world</string>
+
+</resources>
